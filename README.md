@@ -8,8 +8,10 @@ Every project will display a counter, a button to increase it and a button to de
 🚀 Project Setup
 
 To set up the project execute the following commands:
-
+```
 npm install
+```
+```
 npm start
-
+```
 After running the start command, you can view the slides by opening the following URL in your browser:
